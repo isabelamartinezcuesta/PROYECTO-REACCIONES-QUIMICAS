@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260418161622X3DXKC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604181616220E13D2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PROYECTO DE QUÍMICA: LAS REACCIONES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>LAS REACCIONES QUÍMICAS EN NUESTRA VIDA COTIDIANA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ISABEL MARTÍNEZ CUESTA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto de química para 3ºESO donde el alumnado identifique y comprenda las reacciones químicas que ocurren en la vida cotidiana.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776511026487</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1776510424251-cimhjyhhh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LAS REACCIONES QUÍMICAS EN NUESTRA VIDA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LAS REACCIONES QUÍMICAS EN NUESTRA VIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LAS REACCIONES QUÍMICAS EN NUESTRA VIDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776510424251-cimhjyhhh</odePageId>
+      <odeBlockId>block-1776510443450-bb3phd23f</odeBlockId>
+      <blockName>INTRODUCCIÓN DEL PROYECTO</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776510424251-cimhjyhhh</odePageId>
+          <odeBlockId>block-1776510443450-bb3phd23f</odeBlockId>
+          <odeIdeviceId>idevice-1776510443446-u8krhhyvb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>BIENVENIDOS A LAS REACCIONES QUÍMICAS EN NUESTRO DÍA A DIA:</strong></span></p>
+<p><em>¿ Alguna vez te has preguntado por qué se oxida el hierro o por qué tras fermentar una masa de pan, ésta crece?</em></p>
+<p>Si estas preparado para la aventura, visualiza el Canva (pincha en el enlace de la imagen) que he preparado para ti. En él descubrirás los pasos que tienes que dar para comprender las reacciones químicas que nos rodean.</p>
+<figure class="exe-figure position-center" style="width: 1368px;"><img src="{{context_path}}/content/resources/LAS REACCIONES QUÍMICAS EN NUESTRA VIDA.jpg" title="Las reacciones químicas en nuestra vida" width="1368" height="732" alt="Las reacciones químicas en nuestra vida" />
+<figcaption class="figcaption"><span class="author">Isabel Martínez</span>. <a href="https://canva.link/hw4dzbafulnl5vf" class="title" target="_blank" rel="noopener"><em>DESCRIPCIÓN DEL PROYECTO</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776510443446-u8krhhyvb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>BIENVENIDOS A LAS REACCIONES QUÍMICAS EN NUESTRO DÍA A DIA:</strong></span></p>\n<p><em>¿ Alguna vez te has preguntado por qué se oxida el hierro o por qué tras fermentar una masa de pan, ésta crece?</em></p>\n<p>Si estas preparado para la aventura, visualiza el Canva (pincha en el enlace de la imagen) que he preparado para ti. En él descubrirás los pasos que tienes que dar para comprender las reacciones químicas que nos rodean.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1368px;\"><img src=\"{{context_path}}/content/resources/LAS REACCIONES QUÍMICAS EN NUESTRA VIDA.jpg\" title=\"Las reacciones químicas en nuestra vida\" width=\"1368\" height=\"732\" alt=\"Las reacciones químicas en nuestra vida\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel Martínez</span>. <a href=\"https://canva.link/hw4dzbafulnl5vf\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>DESCRIPCIÓN DEL PROYECTO</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776511253884-fsq8oabu6</odePageId>
+  <odeParentPageId>page-1776510424251-cimhjyhhh</odeParentPageId>
+  <pageName>LICENCIAS Y SEGURIDAD</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENCIAS Y SEGURIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776511253884-fsq8oabu6</odePageId>
+      <odeBlockId>block-1776516277206-pybysghgk</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776511253884-fsq8oabu6</odePageId>
+          <odeBlockId>block-1776516277206-pybysghgk</odeBlockId>
+          <odeIdeviceId>idevice-1776516277204-hrykpi7wr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta infografía se resume las indicaciones fundamentales sobre la protección de datos personales y las garantías de derechos digitales que tiene el alumno.</p>
+<figure class="exe-figure position-center" style="width: 1024px;"><img src="{{context_path}}/content/resources/ChatGPT Image 15 mar 2026, 15_13_06.png" title="Infografía de protección de datos y derechos digitales" width="1024" height="1536" alt="Infografía de protección de datos y derechos digitales" />
+<figcaption class="figcaption"><span class="author">Isabel martínez y la IA</span>. <span class="title"><em>Infografía de protección de datos y derechos digitales</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776516277204-hrykpi7wr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta infografía se resume las indicaciones fundamentales sobre la protección de datos personales y las garantías de derechos digitales que tiene el alumno.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1024px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 15 mar 2026, 15_13_06.png\" title=\"Infografía de protección de datos y derechos digitales\" width=\"1024\" height=\"1536\" alt=\"Infografía de protección de datos y derechos digitales\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel martínez y la IA</span>. <span class=\"title\"><em>Infografía de protección de datos y derechos digitales</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776511649594-xmfcayyil</odePageId>
+  <odeParentPageId>page-1776510424251-cimhjyhhh</odeParentPageId>
+  <pageName>A CONSTRUIR</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A CONSTRUIR</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776511649594-xmfcayyil</odePageId>
+      <odeBlockId>block-1776511710935-k6tbwkgkq</odeBlockId>
+      <blockName>ELABORAR UN PRODUCTO FINAL</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776511649594-xmfcayyil</odePageId>
+          <odeBlockId>block-1776511710935-k6tbwkgkq</odeBlockId>
+          <odeIdeviceId>idevice-1776511710934-37jxkd210</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>¿ CÓMO RESUMO TODA LA INFORMACIÓN QUE TENGO?</strong></p>
+<ol>
+<li style="text-align: justify;">Visualiza el video que en la próxima tarea pongo y responde las preguntas que realizo. Así podremos intuir cuantos sabes sobre reacciones químicas.</li>
+<li style="text-align: justify;">Realiza una presentación en Canva donde se recoja los principales resultados del proyecto para exponerlos en la clase al resto de alumnos.</li>
+<li style="text-align: justify;">Elaborar un podcast corto donde se resuma la investigación realizada sobre las reacciones químicas estudiadas. Se publicará en la web del centro.</li>
+<li style="text-align: justify;">Responde al cuestionario que más adelante aparece para finalizar este trabajo.</li>
+</ol>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776511710934-37jxkd210","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>¿ CÓMO RESUMO TODA LA INFORMACIÓN QUE TENGO?</strong></p>\n<ol>\n<li style=\"text-align: justify;\">Visualiza el video que en la próxima tarea pongo y responde las preguntas que realizo. Así podremos intuir cuantos sabes sobre reacciones químicas.</li>\n<li style=\"text-align: justify;\">Realiza una presentación en Canva donde se recoja los principales resultados del proyecto para exponerlos en la clase al resto de alumnos.</li>\n<li style=\"text-align: justify;\">Elaborar un podcast corto donde se resuma la investigación realizada sobre las reacciones químicas estudiadas. Se publicará en la web del centro.</li>\n<li style=\"text-align: justify;\">Responde al cuestionario que más adelante aparece para finalizar este trabajo.</li>\n</ol>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776512623179-i18pc1bwo</odePageId>
+  <odeParentPageId>page-1776510424251-cimhjyhhh</odeParentPageId>
+  <pageName>HERRAMIENTAS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776512623179-i18pc1bwo</odePageId>
+      <odeBlockId>block-1776512630975-jhaz182h5</odeBlockId>
+      <blockName>HERRAMIENTAS QUE NECESITAMOS PARA REALIZAR EL PROYECTO</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776512623179-i18pc1bwo</odePageId>
+          <odeBlockId>block-1776512630975-jhaz182h5</odeBlockId>
+          <odeIdeviceId>idevice-1776512630973-ajqyqqu5g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación te muestro todos los recursos útiles que necesitas para realizar el proyecto de reacciones químicas de forma fácil.</p>
+<p>Observa toda la documentación, videos, paginas web y ejemplos de proyectos similares que he recogido en este padlet</p>
+<p><a href="https://padlet.com/isabelamartinezcuesta/reacciones-en-la-vida-cotidiana-ir5z961l0aw8pqwu" title="Herramientas para realizar el proyecto">Herramientas para realizar el proyecto</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776512630973-ajqyqqu5g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación te muestro todos los recursos útiles que necesitas para realizar el proyecto de reacciones químicas de forma fácil.</p>\n<p>Observa toda la documentación, videos, paginas web y ejemplos de proyectos similares que he recogido en este padlet</p>\n<p><a href=\"https://padlet.com/isabelamartinezcuesta/reacciones-en-la-vida-cotidiana-ir5z961l0aw8pqwu\" title=\"Herramientas para realizar el proyecto\">Herramientas para realizar el proyecto</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776512623179-i18pc1bwo</odePageId>
+      <odeBlockId>block-1776513093420-nmavo3yia</odeBlockId>
+      <blockName>ORGANIZACIÓN DE RECURSOS</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776512623179-i18pc1bwo</odePageId>
+          <odeBlockId>block-1776513093420-nmavo3yia</odeBlockId>
+          <odeIdeviceId>idevice-1776513093420-2bjjv9d8j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Si quieres visualizar las diferentes herramientas que utilizo en mi día a día en mi labor docente, te dejo una recopilación de las mismas en el siguiente enlace:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAABjQ_X1UAA42ADtDPEQ==" title="Recursos para docentes">Recursos para docentes</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776513093420-2bjjv9d8j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si quieres visualizar las diferentes herramientas que utilizo en mi día a día en mi labor docente, te dejo una recopilación de las mismas en el siguiente enlace:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABjQ_X1UAA42ADtDPEQ==\" title=\"Recursos para docentes\">Recursos para docentes</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776513401477-8ol90ybnf</odePageId>
+  <odeParentPageId>page-1776510424251-cimhjyhhh</odeParentPageId>
+  <pageName>TEMPORALIZACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776513401477-8ol90ybnf</odePageId>
+      <odeBlockId>block-1776513410627-s4l15qdxt</odeBlockId>
+      <blockName>TIEMPO PARA REALIZAR EL PROYECTO</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776513401477-8ol90ybnf</odePageId>
+          <odeBlockId>block-1776513410627-s4l15qdxt</odeBlockId>
+          <odeIdeviceId>idevice-1776513410626-h4mmhju1z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="text-decoration: underline;">¡El tiempo del que disponéis para realizar este trabajo es muy importante!</span></strong></p>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 1368px;"><img src="{{context_path}}/content/resources/temporalización.png" title="Temporalización del proyecto" width="1368" height="912" alt="Temporalización del proyecto" />
+<figcaption class="figcaption"><span class="author">Isabel Martínez y la IA</span>. <a href="https://padlet.com/isabelamartinezcuesta/temporalizaci-n-del-proyecto-3d2ac38cmct3eo4m" class="title" target="_blank" rel="noopener"><em>Temporalización del proyecto</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Pincha en el enlace "<em>Temporalización del proyecto" de la imagen. </em>Así podéis observar que vamos a ir realizando en cada sesión.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776513410626-h4mmhju1z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">¡El tiempo del que disponéis para realizar este trabajo es muy importante!</span></strong></p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1368px;\"><img src=\"{{context_path}}/content/resources/temporalización.png\" title=\"Temporalización del proyecto\" width=\"1368\" height=\"912\" alt=\"Temporalización del proyecto\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel Martínez y la IA</span>. <a href=\"https://padlet.com/isabelamartinezcuesta/temporalizaci-n-del-proyecto-3d2ac38cmct3eo4m\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Temporalización del proyecto</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Pincha en el enlace \"<em>Temporalización del proyecto\" de la imagen. </em>Así podéis observar que vamos a ir realizando en cada sesión.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776513820443-akxpivthc</odePageId>
+  <odeParentPageId>page-1776510424251-cimhjyhhh</odeParentPageId>
+  <pageName>¿ QUÉ VOY A EVALUAR?</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿ QUÉ VOY A EVALUAR?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776513820443-akxpivthc</odePageId>
+      <odeBlockId>block-1776514152372-ydn8zt6ke</odeBlockId>
+      <blockName>CRITERIOS VS ACTIVIDADES</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776513820443-akxpivthc</odePageId>
+          <odeBlockId>block-1776514152372-ydn8zt6ke</odeBlockId>
+          <odeIdeviceId>idevice-1776514152366-n81rsppic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, podéis visualizar en las siguientes imágenes, las actividades que estáis realizando a que criterios de evaluación se asocian.</p>
+<figure class="exe-figure position-center" style="width: 1368px;"><img src="{{context_path}}/content/resources/ACTIVIDADES_CRITERIOS.jpg" title="Actividades asociadas a criterios" width="1368" height="593" alt="Actividades asociadas a criterios" />
+<figcaption class="figcaption"><span class="author">Isabel Martínez</span>. <span class="title"><em>Actividades asociadas a criterios</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure position-center" style="width: 1368px;"><img src="{{context_path}}/content/resources/ACTIVIDADES_CRITERIOS_2.jpg" title="Actividades asociadas a criterios_2" width="1368" height="587" alt="Actividades asociadas a criterios_2" />
+<figcaption class="figcaption"><span class="author">Isabel Martínez</span>. <span class="title"><em>Actividades asociadas a criterios_2</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776514152366-n81rsppic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, podéis visualizar en las siguientes imágenes, las actividades que estáis realizando a que criterios de evaluación se asocian.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1368px;\"><img src=\"{{context_path}}/content/resources/ACTIVIDADES_CRITERIOS.jpg\" title=\"Actividades asociadas a criterios\" width=\"1368\" height=\"593\" alt=\"Actividades asociadas a criterios\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel Martínez</span>. <span class=\"title\"><em>Actividades asociadas a criterios</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure position-center\" style=\"width: 1368px;\"><img src=\"{{context_path}}/content/resources/ACTIVIDADES_CRITERIOS_2.jpg\" title=\"Actividades asociadas a criterios_2\" width=\"1368\" height=\"587\" alt=\"Actividades asociadas a criterios_2\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Isabel Martínez</span>. <span class=\"title\"><em>Actividades asociadas a criterios_2</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776513834699-tsqnsdkro</odePageId>
+  <odeParentPageId>page-1776510424251-cimhjyhhh</odeParentPageId>
+  <pageName>¿ CÓMO VOY A EVALUAR?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿ CÓMO VOY A EVALUAR?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776513834699-tsqnsdkro</odePageId>
+      <odeBlockId>block-1776514869024-w9naih1j5</odeBlockId>
+      <blockName>¿Y la nota?</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776513834699-tsqnsdkro</odePageId>
+          <odeBlockId>block-1776514869024-w9naih1j5</odeBlockId>
+          <odeIdeviceId>idevice-1776514869014-gdxm0w03m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>¿ CÓMO VAMOS A EVALUAR?</strong></p>
+<p>Los instrumentos que voy a utilizar para evaluar este trabajo son:</p>
+<ul>
+<li>Las respuestas recogidas en el video de conocimientos previos de edpuzzle.</li>
+<li>La lluvia de ideas recogidas en un paddlet.</li>
+<li>Una lista de cotejo sobre el proceso de aprendizaje centrada en el trabajo cooperativo, el uso de la información y la investigación</li>
+<li>Una rúbrica donde se evalúe el producto final; centrándome en los conocimientos científicos, la comunicación, la presentación realizada y la competencia digital adquirida.</li>
+<li>Formulario de google donde se evalúe una reflexión individual del alumnado, centrada en la percepción del aprendizaje y en la mejora personal que ha supuesto este trabajo</li>
+</ul>
+<p>En el siguiente enlace se puede consultar de forma detallada estos instrumentos de evaluación.</p>
+<p><a href="{{context_path}}/content/resources/INSTRUMENTOS DE EVALUACIÓN.pdf" title="INSTRUMENTOS DE EVALUACIÓN.pdf">Instrumentos de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776514869014-gdxm0w03m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>¿ CÓMO VAMOS A EVALUAR?</strong></p>\n<p>Los instrumentos que voy a utilizar para evaluar este trabajo son:</p>\n<ul>\n<li>Las respuestas recogidas en el video de conocimientos previos de edpuzzle.</li>\n<li>La lluvia de ideas recogidas en un paddlet.</li>\n<li>Una lista de cotejo sobre el proceso de aprendizaje centrada en el trabajo cooperativo, el uso de la información y la investigación</li>\n<li>Una rúbrica donde se evalúe el producto final; centrándome en los conocimientos científicos, la comunicación, la presentación realizada y la competencia digital adquirida.</li>\n<li>Formulario de google donde se evalúe una reflexión individual del alumnado, centrada en la percepción del aprendizaje y en la mejora personal que ha supuesto este trabajo</li>\n</ul>\n<p>En el siguiente enlace se puede consultar de forma detallada estos instrumentos de evaluación.</p>\n<p><a href=\"{{context_path}}/content/resources/INSTRUMENTOS DE EVALUACIÓN.pdf\" title=\"INSTRUMENTOS DE EVALUACIÓN.pdf\">Instrumentos de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>4f02b689-640e-48ff-b86a-623bcb0bbd71</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>4f02b689-640e-48ff-b86a-623bcb0bbd71</odePageId>
+      <odeBlockId>block-1776515573244-7a6gjdlan</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4f02b689-640e-48ff-b86a-623bcb0bbd71</odePageId>
+          <odeBlockId>block-1776515573244-7a6gjdlan</odeBlockId>
+          <odeIdeviceId>idevice-1776515573242-yqjbhxfjy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este enlace se puede consultar la guía didáctica de este proyecto.</p>
+<p><a href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf" title="GUÍA DIDÁCTICA">GUÍA DIDÁCTICA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776515573242-yqjbhxfjy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este enlace se puede consultar la guía didáctica de este proyecto.</p>\n<p><a href=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf\" title=\"GUÍA DIDÁCTICA\">GUÍA DIDÁCTICA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776513885510-0czl569nd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776513885510-0czl569nd</odePageId>
+      <odeBlockId>block-1776520251575-st4y7xb36</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776513885510-0czl569nd</odePageId>
+          <odeBlockId>block-1776520251575-st4y7xb36</odeBlockId>
+          <odeIdeviceId>idevice-1776520251572-9nimvyac2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>AUTORÍA: Isabel Martínez Cuesta</li>
+<li>DESCRIPCIÓN :conectar contenidos científicos, como las reacciones químicas, a situaciones reales y cercanas para el alumnado</li>
+<li>LICENCIA DE USO : Creative commons BY-SA 4.0</li>
+<li>BOTÓN PARA DESCARGA DEL ARCHIVO EDITABLE</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776520251572-9nimvyac2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>AUTORÍA: Isabel Martínez Cuesta</li>\n<li>DESCRIPCIÓN :conectar contenidos científicos, como las reacciones químicas, a situaciones reales y cercanas para el alumnado</li>\n<li>LICENCIA DE USO : Creative commons BY-SA 4.0</li>\n<li>BOTÓN PARA DESCARGA DEL ARCHIVO EDITABLE</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776515706424-pjd2ymufb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>REPASAMOS LA TABLA PERIÓDICA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>REPASAMOS LA TABLA PERIÓDICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776515706424-pjd2ymufb</odePageId>
+      <odeBlockId>block-1776515710295-84yv977xa</odeBlockId>
+      <blockName>Tabla periódica</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776515706424-pjd2ymufb</odePageId>
+          <odeBlockId>block-1776515710295-84yv977xa</odeBlockId>
+          <odeIdeviceId>idevice-1776515710292-8xu51y4bp</odeIdeviceId>
+          <odeIdeviceTypeName>periodic-table</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="periodic-table-IDevice">
+       <div class="game-evaluation-ids js-hidden" data-id="idevice-1776515710292-8xu51y4bp" data-evaluationb="false" data-evaluationid="eaabf2b9-1ddf-4e1b-88bd-8222c59f6a51"></div>
+            <div class="periodic-table-version js-hidden">1</div>
+            <div class="periodic-table-feedback-game"></div>
+            <div class="periodic-table-instructions"><p>Completa las siguientes preguntas sobre la tabla periódica.</p></div>
+            <div class="periodic-table-DataGame js-hidden">{"typeGame":"Periodic table","types":[0,0,1,0,0,0],"groups":[1,0,0,0,0,0,0,0,0,0,0],"instructions":"<p>Completa las siguientes preguntas sobre la tabla periódica.</p>","showMinimize":false,"showSolution":true,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"number":"5","attempts":"1","isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textFeedBack":"","textAfter":"","feedBack":false,"percentajeFB":100,"version":1,"evaluation":false,"evaluationID":"eaabf2b9-1ddf-4e1b-88bd-8222c59f6a51","mode":0,"gameType":2,"id":"idevice-1776515710292-8xu51y4bp","msgs":{"msgReply":"Responder","msgEnterCode":"Introduce el código de acceso","msgErrorCode":"El código de acceso no es correcto","msgIndicateWord":"Proporciona una palabra o expresión","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgRequiredAccessKey":"Es necesario el código de acceso","msgInformationLooking":"¡Genial! La información que estaba buscando","msgPlayStart":"Pulsa aquí para jugar","msgErrors":"Errores","msgHits":"Aciertos","msgScore":"Puntuación","msgWeight":"Peso","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgTime":"Límite de tiempo (mm:ss)","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNumQuestions":"Número de preguntas","msgAttempts":"Número de intentos","msgNoImage":"Pregunta sin imágenes","msgCool":"¡Bien!","mgsAllQuestions":"¡Completadas las preguntas!","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgLoading":"Cargando. Espere, por favor...","msgCorrect":"Correcto","msgIncorrect":"Incorrecto","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgAtomicNumber":"Número atómico","msgNumberClick":"Encuentra el elemento con el número","msgSymbolClick":"Haz clic en este elemento químico","msgNameClick":"Haz clic en este elemento químico","msgTypeGame":"Tabla periódica","msgCheck":"Verificar","msgShowSolution":"Mostrar las soluciones","msgReboot":"Jugar de nuevo","msgIdentify":"Identifica","msgGameOver":"El juego ha terminado. Tu puntuación es %s. Respuestas correctas: %s de %s.","msgNumberValid":"Introduce un número atómico válido","msgNameValid":"El nombre del elemento solo debe contener letras","msgSymbolValid":"El símbolo debe contener una o dos letras, comenzando con una letra mayúscula","msgGroupValid":"Selecciona un grupo de elementos químicos","msgConfigurationValid":"Escribe una configuración válida basada, si corresponde, en el gas noble anterior","msgOxitacionValid":"Introduce los estados de oxidación de este elemento, separados por comas","msgOneElement":"Haz clic en un elemento químico","msgOtherElement":"Correcto. Haz clic en otro elemento","msgNotOK":"No es correcto. Inténtalo de nuevo","msgNotAttempts":"Has alcanzado el número máximo de intentos. Prueba con otro elemento","msgNotAttemptsEQ":"Prueba con otro elemento","msgOtherEQ":"Eso no es correcto. Siguiente elemento","msgIsOKEQ":"Correcto. Este es el elemento químico que estamos buscando","msgIsErrorAt":"Eso no es correcto. Has hecho clic en: %s. Número de intentos: %d. Inténtalo de nuevo","msgIsEndAttempts":"Has alcanzado el número máximo de intentos","mgsNotOkClick":"Eso no es correcto. Has hecho clic en: %s.","mgsCompleteEQ":"Completa la información que falta en este elemento","mgsSelectEQ":"Haz clic en uno de los elementos químicos marcados.","msgProvideFB":"Indica el mensaje que se mostrará al superar el juego","msgNumber":"Número","msgGroup":"Grupo","msgNewTry":"¡Prueba otra vez!","msgSymbol":"Símbolo","msgName":"Nombre","msgConfiguration":"Configuración","msgCOxidationos":"Oxidaciones","msgAccept":"Aceptar","msgCancel":"Cancelar","msgAlkaliMetal":"Metal alcalino","msgAlkalineEarthMetal":"Metal alcalinotérreo","msgTransitionMetal":"Metal de transición","msgPostTransitionMetal":"Metal post-transición","msgMetalloid":"Metaloide","msgNonMetal":"No metal","msgHalogen":"Halógeno","msgNobleGas":"Gas noble","msgLanthanide":"Lantánido","msgActinide":"Actínido","Hydrogen":"Hidrógeno","Helium":"Helio","Lithium":"Litio","Beryllium":"Berilio","Boron":"Boro","Carbon":"Carbono","Nitrogen":"Nitrógeno","Oxygen":"Oxígeno","Fluorine":"Flúor","Neon":"Neón","Sodium":"Sodio","Magnesium":"Magnesio","Aluminum":"Aluminio","Silicon":"Silicio","Phosphorus":"Fósforo","Sulfur":"Azufre","Chlorine":"Cloro","Argon":"Argón","Potassium":"Potasio","Calcium":"Calcio","Scandium":"Escandio","Titanium":"Titanio","Vanadium":"Vanadio","Chromium":"Cromo","Manganese":"Manganeso","Iron":"Hierro","Cobalt":"Cobalto","Nickel":"Níquel","Copper":"Cobre","Zinc":"Zinc","Gallium":"Galio","Germanium":"Germanio","Arsenic":"Arsénico","Selenium":"Selenio","Bromine":"Bromo","Krypton":"Kriptón","Rubidium":"Rubidio","Strontium":"Estroncio","Yttrium":"Itrio","Zirconium":"Circonio","Niobium":"Niobio","Molybdenum":"Molibdeno","Technetium":"Tecnecio","Ruthenium":"Rutenio","Rhodium":"Rodio","Palladium":"Paladio","Silver":"Plata","Cadmium":"Cadmio","Indium":"Indio","Tin":"Estaño","Antimony":"Antimonio","Tellurium":"Telurio","Iodine":"Yodo","Xenon":"Xenón","Cesium":"Cesio","Barium":"Bario","Lanthanum":"Lantano","Cerium":"Cerio","Praseodymium":"Praseodimio","Neodymium":"Neodimio","Promethium":"Prometio","Samarium":"Samario","Europium":"Europio","Gadolinium":"Gadolinio","Terbium":"Terbio","Dysprosium":"Disprosio","Holmium":"Holmio","Erbium":"Erbio","Thulium":"Tulio","Ytterbium":"Iterbio","Lutetium":"Lutecio","Hafnium":"Hafnio","Tantalum":"Tántalo","Tungsten":"Tungsteno","Rhenium":"Renio","Osmium":"Osmio","Iridium":"Iridio","Platinum":"Platino","Gold":"Oro","Mercury":"Mercurio","Thallium":"Talio","Lead":"Plomo","Bismuth":"Bismuto","Polonium":"Polonio","Astatine":"Astato","Radon":"Radón","Francium":"Francio","Radium":"Radio","Actinium":"Actinio","Thorium":"Torio","Protactinium":"Protactinio","Uranium":"Uranio","Neptunium":"Neptunio","Plutonium":"Plutonio","Americium":"Americio","Curium":"Curio","Berkelium":"Berkelio","Californium":"Californio","Einsteinium":"Einstenio","Fermium":"Fermio","Mendelevium":"Mendelevio","Nobelium":"Nobelio","Lawrencium":"Lawrencio","Rutherfordium":"Rutherfordio","Dubnium":"Dubnio","Seaborgium":"Seaborgio","Bohrium":"Bohrio","Hassium":"Hasio","Meitnerium":"Meitnerio","Darmstadtium":"Darmstatio","Roentgenium":"Roentgenio","Copernicium":"Copernicio","Nihonium":"Nihonio","Flerovium":"Flerovio","Moscovium":"Moscovio","Livermorium":"Livermorio","Tennessine":"Teneso","Oganesson":"Oganesón"}}</div>
+            
+            <div class="periodic-table-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+        </div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
